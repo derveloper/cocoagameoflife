@@ -1,0 +1,258 @@
+TCocoaGameOfLife
+v7
+r0
+t286387234.366251
+cCheck dependencies
+cProcessInfoPlistFile /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/vileda/Projects/Cocoa/CocoaGameOfLife/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/fw/fwiUHSyTHb4BCvvwTT7Tv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaGameOfLife_Prefix-audnrjhqfsznoxdkmbdurnuyhozm/CocoaGameOfLife_Prefix.pch.gch CocoaGameOfLife_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/main.o /Users/vileda/Projects/Cocoa/CocoaGameOfLife/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/GameField.o /Users/vileda/Projects/Cocoa/CocoaGameOfLife/GameField.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/AppController.o /Users/vileda/Projects/Cocoa/CocoaGameOfLife/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/Cell.o /Users/vileda/Projects/Cocoa/CocoaGameOfLife/Cell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/MacOS/CocoaGameOfLife normal i386
+cTouch /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004AB44D2500000000000000EE
+t1253330213
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/AppController.h
+c000000004A991E590000000000000218
+t1251548761
+s536
+i<Cocoa/Cocoa.h>
+i"GameField.h"
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/AppController.m
+c000000004A991E590000000000000450
+t1251548761
+s1104
+i"AppController.h"
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/Cell.h
+c000000004A991E590000000000000107
+t1251548761
+s263
+i<Cocoa/Cocoa.h>
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/Cell.m
+c000000004A991E59000000000000013F
+t1251548761
+s319
+i"Cell.h"
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/CocoaGameOfLife_Prefix.pch
+c000000004A991E5900000000000000A1
+t1251548761
+s161
+i<Cocoa/Cocoa.h>
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/English.lproj/InfoPlist.strings
+c000000004A991E59000000000000005C
+t1251548761
+s92
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/English.lproj/MainMenu.xib
+c000000004A991E5900000000000289AD
+t1251548761
+s166317
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/GameField.h
+c000000004A991E59000000000000028D
+t1251548761
+s653
+i<Cocoa/Cocoa.h>
+i"Cell.h"
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/GameField.m
+c000000004A991E590000000000001083
+t1251548761
+s4227
+i"GameField.h"
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/AppController.o
+t1264694431
+s17624
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/Cell.o
+t1264694431
+s7892
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/CocoaGameOfLife.LinkFileList
+c000000004B61B499000000000000020E
+t1264694425
+s526
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/GameField.o
+t1264694430
+s26072
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/main.o
+t1264694430
+s4876
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app
+t1264694431
+s102
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/Info.plist
+t1264694425
+s793
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/MacOS/CocoaGameOfLife
+t1264694431
+s25900
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/PkgInfo
+t1264694425
+s8
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1264694425
+s92
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/Resources/English.lproj/MainMenu.nib
+t1264694426
+s36920
+
+N/Users/vileda/Projects/Cocoa/CocoaGameOfLife/main.m
+c000000004A991E5900000000000000FA
+t1251548761
+s250
+i<Cocoa/Cocoa.h>
+
+N/var/folders/fw/fwiUHSyTHb4BCvvwTT7Tv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaGameOfLife_Prefix-audnrjhqfsznoxdkmbdurnuyhozm/CocoaGameOfLife_Prefix.pch.gch
+t1264694430
+s54084016
+
+NInfo.plist
+c000000004A991E590000000000000357
+t1251548761
+s855
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286387234#286387234#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/AppController.o /Users/vileda/Projects/Cocoa/CocoaGameOfLife/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286387230.882464
+e286387231.086504
+r1
+xCompileC
+xbuild/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/AppController.o
+x/Users/vileda/Projects/Cocoa/CocoaGameOfLife/AppController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/vileda/Projects/Cocoa/CocoaGameOfLife/AppController.m286387230#286387231#0(0"0(0#0#60"/Users/vileda/Projects/Cocoa/CocoaGameOfLife/AppController.m4300885448#1686"    cd /Users/vileda/Projects/Cocoa/CocoaGameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-generated-files.hmap -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-own-target-headers.hmap -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-all-target-headers.hmap -iquote /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-project-headers.hmap -F/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/include -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/DerivedSources/i386 -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/DerivedSources -include /var/folders/fw/fwiUHSyTHb4BCvvwTT7Tv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaGameOfLife_Prefix-audnrjhqfsznoxdkmbdurnuyhozm/CocoaGameOfLife_Prefix.pch -c /Users/vileda/Projects/Cocoa/CocoaGameOfLife/AppController.m -o /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/AppController.o0#
+
+CCompileC build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/Cell.o /Users/vileda/Projects/Cocoa/CocoaGameOfLife/Cell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286387230.953699
+e286387231.114309
+r1
+xCompileC
+xbuild/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/Cell.o
+x/Users/vileda/Projects/Cocoa/CocoaGameOfLife/Cell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/vileda/Projects/Cocoa/CocoaGameOfLife/Cell.m286387230#286387231#0(0"0(0#0#51"/Users/vileda/Projects/Cocoa/CocoaGameOfLife/Cell.m4300885448#1668"    cd /Users/vileda/Projects/Cocoa/CocoaGameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-generated-files.hmap -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-own-target-headers.hmap -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-all-target-headers.hmap -iquote /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-project-headers.hmap -F/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/include -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/DerivedSources/i386 -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/DerivedSources -include /var/folders/fw/fwiUHSyTHb4BCvvwTT7Tv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaGameOfLife_Prefix-audnrjhqfsznoxdkmbdurnuyhozm/CocoaGameOfLife_Prefix.pch -c /Users/vileda/Projects/Cocoa/CocoaGameOfLife/Cell.m -o /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/Cell.o0#
+
+CCompileC build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/GameField.o /Users/vileda/Projects/Cocoa/CocoaGameOfLife/GameField.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286387230.721968
+e286387230.953523
+r1
+xCompileC
+xbuild/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/GameField.o
+x/Users/vileda/Projects/Cocoa/CocoaGameOfLife/GameField.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/vileda/Projects/Cocoa/CocoaGameOfLife/GameField.m286387230#286387230#0(0"0(0#0#56"/Users/vileda/Projects/Cocoa/CocoaGameOfLife/GameField.m4300885448#1678"    cd /Users/vileda/Projects/Cocoa/CocoaGameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-generated-files.hmap -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-own-target-headers.hmap -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-all-target-headers.hmap -iquote /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-project-headers.hmap -F/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/include -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/DerivedSources/i386 -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/DerivedSources -include /var/folders/fw/fwiUHSyTHb4BCvvwTT7Tv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaGameOfLife_Prefix-audnrjhqfsznoxdkmbdurnuyhozm/CocoaGameOfLife_Prefix.pch -c /Users/vileda/Projects/Cocoa/CocoaGameOfLife/GameField.m -o /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/GameField.o0#
+
+CCompileC build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/main.o /Users/vileda/Projects/Cocoa/CocoaGameOfLife/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286387230.704247
+e286387230.882186
+r1
+xCompileC
+xbuild/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/main.o
+x/Users/vileda/Projects/Cocoa/CocoaGameOfLife/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/vileda/Projects/Cocoa/CocoaGameOfLife/main.m286387230#286387230#0(0"0(0#0#51"/Users/vileda/Projects/Cocoa/CocoaGameOfLife/main.m4300885448#1668"    cd /Users/vileda/Projects/Cocoa/CocoaGameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-generated-files.hmap -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-own-target-headers.hmap -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-all-target-headers.hmap -iquote /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-project-headers.hmap -F/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/include -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/DerivedSources/i386 -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/DerivedSources -include /var/folders/fw/fwiUHSyTHb4BCvvwTT7Tv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaGameOfLife_Prefix-audnrjhqfsznoxdkmbdurnuyhozm/CocoaGameOfLife_Prefix.pch -c /Users/vileda/Projects/Cocoa/CocoaGameOfLife/main.m -o /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/vileda/Projects/Cocoa/CocoaGameOfLife/English.lproj/MainMenu.xib
+s286387225.508458
+e286387226.103089
+r1
+xCompileXIB
+x/Users/vileda/Projects/Cocoa/CocoaGameOfLife/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib286387225#286387226#0(0"0(0#0#71"/Users/vileda/Projects/Cocoa/CocoaGameOfLife/English.lproj/MainMenu.xib4300885448#353"    cd /Users/vileda/Projects/Cocoa/CocoaGameOfLife    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/Resources/English.lproj/MainMenu.nib /Users/vileda/Projects/Cocoa/CocoaGameOfLife/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s286387225.506327
+e286387225.952022
+r1
+xCopyStringsFile
+x/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings286387225#286387225#0(0"0(0#0#76"/Users/vileda/Projects/Cocoa/CocoaGameOfLife/English.lproj/InfoPlist.strings4300885448#386"    cd /Users/vileda/Projects/Cocoa/CocoaGameOfLife    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/Resources/English.lproj0#
+
+CLd /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/MacOS/CocoaGameOfLife normal i386
+s286387231.114413
+e286387231.560185
+r1
+xLd
+x/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/MacOS/CocoaGameOfLife
+xnormal
+xi386
+lSLF07#2@112"Link /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/MacOS/CocoaGameOfLife286387231#286387231#0(0"0(0#0#0"4300885448#608"    cd /Users/vileda/Projects/Cocoa/CocoaGameOfLife    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug -F/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug -filelist /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/Objects-normal/i386/CocoaGameOfLife.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/MacOS/CocoaGameOfLife0#
+
+CProcessInfoPlistFile /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/Info.plist Info.plist
+s286387225.483014
+e286387225.506227
+r1
+xProcessInfoPlistFile
+x/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist286387225#286387225#0(0"0(0#0#55"/Users/vileda/Projects/Cocoa/CocoaGameOfLife/Info.plist13229753409208424#336"    cd /Users/vileda/Projects/Cocoa/CocoaGameOfLife    builtin-infoPlistUtility Info.plist -genpkginfo /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/fw/fwiUHSyTHb4BCvvwTT7Tv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaGameOfLife_Prefix-audnrjhqfsznoxdkmbdurnuyhozm/CocoaGameOfLife_Prefix.pch.gch CocoaGameOfLife_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s286387226.103263
+e286387230.703952
+r1
+xProcessPCH
+x/var/folders/fw/fwiUHSyTHb4BCvvwTT7Tv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaGameOfLife_Prefix-audnrjhqfsznoxdkmbdurnuyhozm/CocoaGameOfLife_Prefix.pch.gch
+xCocoaGameOfLife_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile CocoaGameOfLife_Prefix.pch286387226#286387230#0(0"0(0#0#71"/Users/vileda/Projects/Cocoa/CocoaGameOfLife/CocoaGameOfLife_Prefix.pch4300885448#1562"    cd /Users/vileda/Projects/Cocoa/CocoaGameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-generated-files.hmap -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-own-target-headers.hmap -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-all-target-headers.hmap -iquote /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/CocoaGameOfLife-project-headers.hmap -F/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/include -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/DerivedSources/i386 -I/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/CocoaGameOfLife.build/Debug/CocoaGameOfLife.build/DerivedSources -c /Users/vileda/Projects/Cocoa/CocoaGameOfLife/CocoaGameOfLife_Prefix.pch -o /var/folders/fw/fwiUHSyTHb4BCvvwTT7Tv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaGameOfLife_Prefix-audnrjhqfsznoxdkmbdurnuyhozm/CocoaGameOfLife_Prefix.pch.gch0#
+
+CTouch /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app
+s286387231.560329
+e286387231.576686
+r1
+xTouch
+x/Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app
+lSLF07#2@82"Touch /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app286387231#286387231#0(0"0(0#0#0"4300885448#151"    cd /Users/vileda/Projects/Cocoa/CocoaGameOfLife    /usr/bin/touch -c /Users/vileda/Projects/Cocoa/CocoaGameOfLife/build/Debug/CocoaGameOfLife.app0#
+

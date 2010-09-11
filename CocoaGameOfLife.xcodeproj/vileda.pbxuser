@@ -1,0 +1,286 @@
+// !$*UTF8*$!
+{
+	0A7B0EC40F76C39E0047701E /* Cell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {987, 609}}";
+			sepNavSelRange = "{199, 0}";
+			sepNavVisRange = "{0, 263}";
+		};
+	};
+	0A7B0EC50F76C39E0047701E /* Cell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 609}}";
+			sepNavSelRange = "{169, 0}";
+			sepNavVisRange = "{0, 317}";
+		};
+	};
+	0A7B0EC90F76C40F0047701E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0A7B0EC50F76C39E0047701E /* Cell.m */;
+		name = "Cell.m: 13";
+		rLen = 0;
+		rLoc = 169;
+		rType = 0;
+		vrLen = 317;
+		vrLoc = 0;
+	};
+	0A7B100A0F78064C0047701E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0A7B0EC40F76C39E0047701E /* Cell.h */;
+		name = "Cell.h: 15";
+		rLen = 0;
+		rLoc = 199;
+		rType = 0;
+		vrLen = 263;
+		vrLoc = 0;
+	};
+	0A7B10B80F792E230047701E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0A9FFE270F75E33C0098E5C4 /* GameField.m */;
+		name = "GameField.m: 24";
+		rLen = 0;
+		rLoc = 452;
+		rType = 0;
+		vrLen = 1046;
+		vrLoc = 156;
+	};
+	0A7B10CC0F79303E0047701E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0A9FFE490F75F3B50098E5C4 /* AppController.h */;
+		name = "AppController.h: 20";
+		rLen = 0;
+		rLoc = 411;
+		rType = 0;
+		vrLen = 536;
+		vrLoc = 0;
+	};
+	0A7B10DD0F7934620047701E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0A9FFE4A0F75F3B50098E5C4 /* AppController.m */;
+		name = "AppController.m: 29";
+		rLen = 0;
+		rLoc = 406;
+		rType = 0;
+		vrLen = 562;
+		vrLoc = 197;
+	};
+	0A9FFE140F75E06A0098E5C4 /* CocoaGameOfLife */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CocoaGameOfLife;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0A9FFE220F75E0840098E5C4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = "zaphod-svn";
+			repositoryNamesForRoots = {
+				"" = "zaphod-svn";
+			};
+		};
+	};
+	0A9FFE230F75E0840098E5C4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0A9FFE260F75E33C0098E5C4 /* GameField.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {987, 599}}";
+			sepNavSelRange = "{291, 0}";
+			sepNavVisRange = "{0, 653}";
+		};
+	};
+	0A9FFE270F75E33C0098E5C4 /* GameField.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 2520}}";
+			sepNavSelRange = "{4164, 0}";
+			sepNavVisRange = "{3890, 248}";
+		};
+	};
+	0A9FFE490F75F3B50098E5C4 /* AppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {987, 609}}";
+			sepNavSelRange = "{411, 0}";
+			sepNavVisRange = "{0, 536}";
+			sepNavWindowFrame = "{{15, 36}, {969, 742}}";
+		};
+	};
+	0A9FFE4A0F75F3B50098E5C4 /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {987, 798}}";
+			sepNavSelRange = "{406, 0}";
+			sepNavVisRange = "{197, 562}";
+			sepNavWindowFrame = "{{15, 36}, {969, 742}}";
+		};
+	};
+	0A9FFED20F76AA1B0098E5C4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/vileda/Projects/cpp/CocoaGameOfLife/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	0A9FFED30F76AA1B0098E5C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 250;
+		vrLoc = 0;
+	};
+	0AB26E5F1111EC24005588B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0A9FFE260F75E33C0098E5C4 /* GameField.h */;
+		name = "GameField.h: 18";
+		rLen = 0;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 653;
+		vrLoc = 0;
+	};
+	0AB26E80111362D2005588B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0A9FFE260F75E33C0098E5C4 /* GameField.h */;
+		name = "GameField.h: 18";
+		rLen = 0;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 653;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0A9FFE140F75E06A0098E5C4 /* CocoaGameOfLife */;
+		activeTarget = 8D1107260486CEB800E47090 /* CocoaGameOfLife */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* CocoaGameOfLife */,
+		);
+		codeSenseManager = 0A9FFE230F75E0840098E5C4 /* Code sense */;
+		executables = (
+			0A9FFE140F75E06A0098E5C4 /* CocoaGameOfLife */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					697,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					809,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					809,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 286387217;
+			PBXWorkspaceStateSaveDate = 286387217;
+		};
+		perUserProjectItems = {
+			0A7B0EC90F76C40F0047701E /* PBXTextBookmark */ = 0A7B0EC90F76C40F0047701E /* PBXTextBookmark */;
+			0A7B100A0F78064C0047701E /* PBXTextBookmark */ = 0A7B100A0F78064C0047701E /* PBXTextBookmark */;
+			0A7B10B80F792E230047701E /* PBXTextBookmark */ = 0A7B10B80F792E230047701E /* PBXTextBookmark */;
+			0A7B10CC0F79303E0047701E /* PBXTextBookmark */ = 0A7B10CC0F79303E0047701E /* PBXTextBookmark */;
+			0A7B10DD0F7934620047701E /* PBXTextBookmark */ = 0A7B10DD0F7934620047701E /* PBXTextBookmark */;
+			0A9FFED20F76AA1B0098E5C4 /* PlistBookmark */ = 0A9FFED20F76AA1B0098E5C4 /* PlistBookmark */;
+			0A9FFED30F76AA1B0098E5C4 /* PBXTextBookmark */ = 0A9FFED30F76AA1B0098E5C4 /* PBXTextBookmark */;
+			0AB26E5F1111EC24005588B3 /* PBXTextBookmark */ = 0AB26E5F1111EC24005588B3 /* PBXTextBookmark */;
+			0AB26E80111362D2005588B3 /* PBXTextBookmark */ = 0AB26E80111362D2005588B3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0A9FFE220F75E0840098E5C4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 609}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 250}";
+		};
+	};
+	8D1107260486CEB800E47090 /* CocoaGameOfLife */ = {
+		activeExec = 0;
+		executables = (
+			0A9FFE140F75E06A0098E5C4 /* CocoaGameOfLife */,
+		);
+	};
+}

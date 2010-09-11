@@ -1,0 +1,23 @@
+//
+//  AppController.m
+//  CocoaGameOfLife
+//
+//  Created by vileda on 22.03.09.
+//  Copyright 2009 Tristan Leo. All rights reserved.
+//
+
+#import "AppController.h"
+
+
+@implementation AppController
+
+- (id) init
+{
+	self = [super init];
+	if (self != nil) {
+
+	}
+	return self;
+}
+
+@end
